@@ -26,7 +26,7 @@ It’s a great tool for creating QR codes for websites, contact information, or 
 
 ## 🧩 Installation
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/yourusername/qr-code-generator.git
 ```
