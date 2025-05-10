@@ -31,6 +31,10 @@ It’s a great tool for creating QR codes for websites, contact information, or 
 git clone https://github.com/yourusername/qr-code-generator.git
 ```
 2️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
+```
 3️⃣ Run the application
+```bash
 python qrCodeApp.py
+```
